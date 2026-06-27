@@ -5,35 +5,42 @@ sitemap: false
 permalink: /
 ---
 
+
 <h2 class="home-hero">{{ site.name }}</h2>
 <p class="home-hero-sub">{{ site.title }}, {{ site.institution }}</p>
 
 <div class="chip-container" markdown="0">
-<a href="{{ site.url }}{{ site.baseurl }}/research" class="chip">Quantum Electrodynamics</a>
-<a href="{{ site.url }}{{ site.baseurl }}/research" class="chip">Path Integrals</a>
-<a href="{{ site.url }}{{ site.baseurl }}/research" class="chip">Superfluidity</a>
-<a href="{{ site.url }}{{ site.baseurl }}/research" class="chip">Parton Model</a>
-<a href="{{ site.url }}{{ site.baseurl }}/research" class="chip">Quantum Computing</a>
-<a href="{{ site.url }}{{ site.baseurl }}/research" class="chip">Nanotechnology</a>
+<a href="{{ site.url }}{{ site.baseurl }}/research" class="chip">Causal Inference</a>
+<a href="{{ site.url }}{{ site.baseurl }}/research" class="chip">Health Services Research</a>
+<a href="{{ site.url }}{{ site.baseurl }}/research" class="chip">Quantitative Methods</a>
+<a href="{{ site.url }}{{ site.baseurl }}/research" class="chip">Register-Based Research</a>
+<a href="{{ site.url }}{{ site.baseurl }}/research" class="chip">Health Inequalities</a>
+<a href="{{ site.url }}{{ site.baseurl }}/research" class="chip">Longitudinal Data Analysis</a>
+<a href="{{ site.url }}{{ site.baseurl }}/research" class="chip">Quasi-Experimental Methods</a>
+<a href="{{ site.url }}{{ site.baseurl }}/research" class="chip">Climate and Health</a>
 </div>
 
-Theoretical physics is a branch of physics that focuses on the development of mathematical models and theories to understand and explain natural phenomena.
-It plays a crucial role in our understanding of the fundamental laws of the universe and the fundamental particles that make up all matter.
-Research in theoretical physics helps us to make predictions about how the universe works and to test these predictions through experiments.
+<p>
+I am a quantitative health researcher and methodologist working at the intersection of health services research, causal inference, and applied social science. My research focuses on how social, economic, organizational, and environmental conditions shape health, well-being, and inequalities across different population groups.
+</p>
+
+<p>
+Methodologically, my work combines longitudinal data analysis, quasi-experimental designs, register-based research, mediation analysis, synthetic control approaches, and causal inference frameworks. I use these methods to study complex health-related processes in observational data and to strengthen evidence for health policy and health services research.
+</p>
+
+<p>
+Substantively, I am interested in health inequalities, multimorbidity, mental health, climate-related health risks, and the evaluation of health care interventions and policy measures. A recurring theme in my work is the question of how robust empirical evidence can be generated when randomized trials are not feasible or not sufficient for real-world decision-making.
+</p>
 
 <div class="callout callout-success" markdown="0">
-<div class="callout-title"><i class="fa-solid fa-award callout-icon"></i> Nobel Prize in Physics, 1965</div>
-<p>Awarded the Nobel Prize jointly with Julian Schwinger and Shin'ichiro Tomonaga for fundamental work in quantum electrodynamics, with deep-ploughing consequences for the physics of elementary particles.</p>
+  <div class="callout-title">
+    <i class="fa-solid fa-chart-line callout-icon"></i> Current Research Focus: Causal Evidence for Health Policy
+  </div>
+  <p>
+    My current work develops and applies quantitative methods for evaluating health policies, care structures, and environmental health risks. This includes projects on health inequalities, climate-related health burdens, register-based research, and causal inference in health services research.
+  </p>
 </div>
 
-<div class="banner-frame" markdown="0">
-<img src="{{ site.url }}{{ site.baseurl }}/images/banner.jpg" alt="Feynman diagrams" loading="lazy">
-<div class="banner-caption">Examples of Feynman diagrams. Feynman R., <em>The theory of positrons. Phys. Rev.</em> (1949)</div>
-</div>
-
-### About me
-
-I am a physicist working in the field of quantum mechanics and quantum electrodynamics.
-I received my undergraduate degree in physics from the Massachusetts Institute of Technology (MIT) in 1939 and went on to earn my PhD from Princeton University in 1942.
-After completing my doctoral studies, I worked on the Manhattan Project, where I helped develop the first atomic bombs.
-After the war, I returned to academia, holding teaching and research positions at Cornell and now at the California Institute of Technology.
+<p>
+I teach quantitative methods, causal inference, register-based research, and advanced methods in health services research. My teaching emphasizes applied data analysis, transparent workflows, and the translation of statistical methods into meaningful empirical evidence.
+</p>
