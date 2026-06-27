@@ -2,7 +2,7 @@
 # STEP 1: Your Identity (required)
 # ============================================================
 name: "Dr. Ibrahim Demirer"
-title: "Professor of Physics"
+title: "Quantitative Health Researcher | Causal Inference & Health Services Research"
 institution: "Department for Psychosomatic Medicine and Psychotherapy, Center for Health Communication and Health Services Research (CHSR), University Hospital Bonn"
 email: ibrahim.demirer@ukbonn.de
 photo: headshot.jpg  # place your photo in images/
@@ -11,10 +11,10 @@ photo: headshot.jpg  # place your photo in images/
 # STEP 2: Your Links (optional -- delete any you don't use)
 # ============================================================
 links:
-  google_scholar: "https://scholar.google.com/citations?user=B7vSqZsAAAAJ"
-  github: "https://github.com/"
-  researchgate: "https://www.researchgate.net/"
-  orcid: ""
+  google_scholar: "https://scholar.google.com/citations?hl=de&user=gcSz4EIAAAAJ"
+  github: "https://ibrahimdemirer.github.io"
+  researchgate: "https://www.researchgate.net/profile/Ibrahim-Demirer"
+  orcid: "https://orcid.org/0000-0001-5346-4739"
   twitter: ""
   linkedin: ""
   cv: ""  # e.g., "papers/cv.pdf" — leave blank to hide the CV icon
