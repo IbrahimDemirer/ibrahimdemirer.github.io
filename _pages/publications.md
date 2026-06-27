@@ -20,10 +20,4 @@ permalink: /publications/
 
 {% bibliography --query @phdthesis %}
 
-<h3>Book Chapters and Reports</h3>
-
-{% bibliography --query @incollection %}
-
-{% bibliography --query @techreport %}
-
 </div>
