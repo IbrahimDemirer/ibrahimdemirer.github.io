@@ -12,14 +12,6 @@ permalink: /publications/
 
 <div class="section-card" id="pubList">
 
-<h3>Under Review and Submitted Manuscripts</h3>
-
-{% bibliography --query @unpublished[keywords ^= manuscript] %}
-
-<h3>Working Papers and Work in Progress</h3>
-
-{% bibliography --query @unpublished[keywords ^= prepublication] %}
-
 <h3>Refereed Journal Articles</h3>
 
 {% bibliography --query @article %}
