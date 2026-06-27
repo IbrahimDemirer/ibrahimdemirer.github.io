@@ -32,21 +32,6 @@ Causal Inference, Health Services Research, Quantitative Methods, Register-Based
 </div>
 </div>
 
-<div class="section-card">
-  <h3>Research Profile</h3>
-
-  <p>
-  I am a quantitative health researcher and methodologist working at the intersection of health services research, causal inference, and applied social science. My research focuses on how social, economic, organizational, and environmental conditions shape health, well-being, and health inequalities.
-  </p>
-
-  <p>
-  Methodologically, my work uses longitudinal data analysis, quasi-experimental designs, register-based research, mediation analysis, synthetic control approaches, and causal inference frameworks. I am particularly interested in how robust empirical evidence can be generated from observational data when randomized trials are not feasible or not sufficient for real-world decision-making.
-  </p>
-
-  <p>
-  Substantively, my work addresses health inequalities, multimorbidity, mental health, climate-related health risks, and the evaluation of health care interventions and health policy measures.
-  </p>
-</div>
 
 <div class="section-card">
   <h3>Professional Appointments</h3>
