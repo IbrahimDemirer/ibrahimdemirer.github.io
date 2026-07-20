@@ -1,7 +1,7 @@
 ---
 title: "Home"
 layout: homelay
-sitemap: false
+sitemap: true
 permalink: /
 ---
 
