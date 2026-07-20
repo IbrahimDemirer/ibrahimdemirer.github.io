@@ -2,7 +2,7 @@
 
 title: "About"
 layout: gridlay
-sitemap: false
+sitemap: true
 permalink: /about/
 ---
 
